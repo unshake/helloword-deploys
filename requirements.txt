@@ -1,3 +1,4 @@
 Flask
 boto
 wsgiref==0.1.2
+gunicorn
